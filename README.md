@@ -1,7 +1,26 @@
-# binaryContactBook
-Simple contact book application that writes and pulls from a binary file
+# Contact Book
 
-Has functionality like any other contact book, add, remove, search, edit, remove.
-This was more of a learning experience to get used to working with data structures and file I/O in C
+![Imgur](https://i.imgur.com/Zhpzx61.png)
 
-To anyone who might ever download this and is not on a unix based system, delete the clear screen function and remove all calls for it to work!
+### About
+* Simple Contact Book applicaton that stores contacts in a binary file
+* Allows the Addition, removal, edit, search, and listing of contacts
+* Program was created to familiarize self with binary file IO/searching
+
+
+### Examples
+* Add Contact
+
+![Imgur](https://i.imgur.com/BTdMNxy.png)
+
+* List Contatcs
+
+![Imgur](https://i.imgur.com/JUUIQTG.png)
+
+* Search Contact
+
+![Imgur](https://i.imgur.com/Pto972F.png)
+
+* Edit Contact
+
+![Imgur](https://i.imgur.com/Ce8Ig6f.png)
